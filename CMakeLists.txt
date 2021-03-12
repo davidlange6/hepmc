@@ -95,3 +95,4 @@ add_subdirectory(doc)
 # Packaging utility
 include(HepMCUseCpack)
 
+install(FILES modulemap/hepmc.modulemap DESTINATION "include")
