@@ -11,9 +11,7 @@
 #include "HepMC/GenParticle.h"
 #include <map>
 
-namespace HepMC {
-
-    class GenParticle;
+namespace HepMC {  
 
     //! TempParticleMap is a temporary GenParticle* container used during input.
 
